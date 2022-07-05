@@ -4,7 +4,7 @@
 
 ## 镜像构建
 
-下载leanote二进制包并解压到`./leanote`下
+[下载leanote二进制包](http://leanote.org/#download)并解压到`./leanote`下
 
 ```
 docker build -t leanote:version .
